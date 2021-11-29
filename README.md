@@ -1,11 +1,3 @@
-# ERC20-Exporter
-### Lightweight explorer for ERC20 based Ethereum tokens
-
-ERC20-Exporter is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
-
-
-A demo instance connected to the Golem Network Token is available at [gnt.etherchain.org](http://gnt.etherchain.org).
-
 ## Current Features
 * Browse transactions and accounts
 * Named accounts
@@ -16,8 +8,6 @@ A demo instance connected to the Golem Network Token is available at [gnt.etherc
 * Accounts enumeration
 * Supports IPC and HTTP backend connections
 * Responsive layout
-
-Missing a feature? Please request it by creating a new [Issue](https://github.com/gobitfly/erc20-exporter/issues).
 
 ## Getting started
 
